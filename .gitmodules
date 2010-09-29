@@ -1,0 +1,3 @@
+[submodule "contracts/cdc-consumer"]
+	path = spec/integration/contracts/cdc-consumer
+	url = git@github.com:delitescere/cdc-consumer-contracts-for-provider.git
